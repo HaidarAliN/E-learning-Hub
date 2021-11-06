@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/E-learning-Hub/static/css/main.26737888.chunk.css",
-    "main.js": "/E-learning-Hub/static/js/main.925fc48e.chunk.js",
-    "main.js.map": "/E-learning-Hub/static/js/main.925fc48e.chunk.js.map",
+    "main.js": "/E-learning-Hub/static/js/main.f0d7134d.chunk.js",
+    "main.js.map": "/E-learning-Hub/static/js/main.f0d7134d.chunk.js.map",
     "runtime-main.js": "/E-learning-Hub/static/js/runtime-main.a1107b2a.js",
     "runtime-main.js.map": "/E-learning-Hub/static/js/runtime-main.a1107b2a.js.map",
     "static/css/2.c1256375.chunk.css": "/E-learning-Hub/static/css/2.c1256375.chunk.css",
-    "static/js/2.f040a83c.chunk.js": "/E-learning-Hub/static/js/2.f040a83c.chunk.js",
-    "static/js/2.f040a83c.chunk.js.map": "/E-learning-Hub/static/js/2.f040a83c.chunk.js.map",
+    "static/js/2.b9fff138.chunk.js": "/E-learning-Hub/static/js/2.b9fff138.chunk.js",
+    "static/js/2.b9fff138.chunk.js.map": "/E-learning-Hub/static/js/2.b9fff138.chunk.js.map",
     "index.html": "/E-learning-Hub/index.html",
     "service-worker.js": "/E-learning-Hub/service-worker.js",
     "service-worker.js.map": "/E-learning-Hub/service-worker.js.map",
     "static/css/2.c1256375.chunk.css.map": "/E-learning-Hub/static/css/2.c1256375.chunk.css.map",
     "static/css/main.26737888.chunk.css.map": "/E-learning-Hub/static/css/main.26737888.chunk.css.map",
-    "static/js/2.f040a83c.chunk.js.LICENSE.txt": "/E-learning-Hub/static/js/2.f040a83c.chunk.js.LICENSE.txt"
+    "static/js/2.b9fff138.chunk.js.LICENSE.txt": "/E-learning-Hub/static/js/2.b9fff138.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a1107b2a.js",
     "static/css/2.c1256375.chunk.css",
-    "static/js/2.f040a83c.chunk.js",
+    "static/js/2.b9fff138.chunk.js",
     "static/css/main.26737888.chunk.css",
-    "static/js/main.925fc48e.chunk.js"
+    "static/js/main.f0d7134d.chunk.js"
   ]
 }
